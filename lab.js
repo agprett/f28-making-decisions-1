@@ -9,7 +9,7 @@
 //CODE HERE
 
 // For problems 2-3 use the following lines of code:
-var amysAge = 29;
+var amysAge = 39;
 var brittanisAge = 34;
 var amysBirthYear = 1991;
 var brittanisBirthYear = 1986;
